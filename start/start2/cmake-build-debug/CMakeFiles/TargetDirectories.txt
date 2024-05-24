@@ -1,0 +1,17 @@
+/Users/bytedance/Documents/make_os/start/start2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bytedance/Documents/make_os/start/start2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/bytedance/Documents/make_os/start/start2/cmake-build-debug/source/boot/CMakeFiles/boot.dir
+/Users/bytedance/Documents/make_os/start/start2/cmake-build-debug/source/boot/CMakeFiles/edit_cache.dir
+/Users/bytedance/Documents/make_os/start/start2/cmake-build-debug/source/boot/CMakeFiles/rebuild_cache.dir
+/Users/bytedance/Documents/make_os/start/start2/cmake-build-debug/source/loader/CMakeFiles/loader.dir
+/Users/bytedance/Documents/make_os/start/start2/cmake-build-debug/source/loader/CMakeFiles/edit_cache.dir
+/Users/bytedance/Documents/make_os/start/start2/cmake-build-debug/source/loader/CMakeFiles/rebuild_cache.dir
+/Users/bytedance/Documents/make_os/start/start2/cmake-build-debug/source/kernel/CMakeFiles/kernel.dir
+/Users/bytedance/Documents/make_os/start/start2/cmake-build-debug/source/kernel/CMakeFiles/edit_cache.dir
+/Users/bytedance/Documents/make_os/start/start2/cmake-build-debug/source/kernel/CMakeFiles/rebuild_cache.dir
+/Users/bytedance/Documents/make_os/start/start2/cmake-build-debug/source/applib/CMakeFiles/app.dir
+/Users/bytedance/Documents/make_os/start/start2/cmake-build-debug/source/applib/CMakeFiles/edit_cache.dir
+/Users/bytedance/Documents/make_os/start/start2/cmake-build-debug/source/applib/CMakeFiles/rebuild_cache.dir
+/Users/bytedance/Documents/make_os/start/start2/cmake-build-debug/source/shell/CMakeFiles/shell.dir
+/Users/bytedance/Documents/make_os/start/start2/cmake-build-debug/source/shell/CMakeFiles/edit_cache.dir
+/Users/bytedance/Documents/make_os/start/start2/cmake-build-debug/source/shell/CMakeFiles/rebuild_cache.dir

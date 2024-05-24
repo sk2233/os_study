@@ -1,0 +1,22 @@
+{
+    "cmake.configureOnOpen": false,
+    "cmake.sourceDirectory": "${workspaceFolder}/.",
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "dirent.h": "c",
+        "lib_syscall.h": "c",
+        "task.h": "c",
+        "types.h": "c",
+        "fcntl.h": "c",
+        "_default_fcntl.h": "c",
+        "stdint.h": "c",
+        "stdint-gcc.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/bytedance/Documents/make_os/diy-200lines-os/b00.00",
+            "binaryPath": "/Users/bytedance/Documents/make_os/diy-200lines-os/b00.00/os.elf",
+            "binaryArgs": []
+        }
+    ],
+}
